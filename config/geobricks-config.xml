@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <geoserver>
+        <geoserver-IP>xxx.xxx.xxx.xxx</geoserver-IP>
+        <geoserver-port>xxxx</geoserver-port>
+        <geoserver-user>****</geoserver-user>
+        <geoserver-password>*****</geoserver-password>
+        <layers-folder>layergroup</layers-folder>
+        <workspace>flu</workspace>
+        <datastore>flustore</datastore>
+    </geoserver>
+</configuration>

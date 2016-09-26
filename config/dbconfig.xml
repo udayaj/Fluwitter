@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <database>
+        <host>xxx.xxx.xxx</host>
+        <port>xxxx</port>
+        <user>******</user>
+        <password>******</password>
+        <name>******</name>
+    </database>
+</configuration>
